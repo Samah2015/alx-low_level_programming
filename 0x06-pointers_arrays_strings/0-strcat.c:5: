@@ -1,0 +1,10 @@
+trcat.c:6: ERROR: trailing whitespace                                                                                                             
+
+0-strcat.c:7: ERROR: trailing whitespace                                                                                                             
+
+total: 3 errors, 0 warnings, 29 lines checked                                                                                                        
+
+_strcat                                     
+
+
+
